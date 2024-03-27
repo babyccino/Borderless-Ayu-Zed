@@ -1,18 +1,22 @@
 # Ayu Borderless Themes for the Zed Code Editor
 
-This repo contains 3 Ayu BorderLess themes for [Zed](https://zed.dev).
+This repo contains borderLess versions of the three Ayu themes for [Zed](https://zed.dev) to match those in VSCode.
 
 ## Installing
 
-- Copy the `.json` files from this repo into `~.config/zed/themes`.
+- Copy the `.json` file from this repo into `~.config/zed/themes`.
 - Select your theme (Settings -> Select Theme).
 
-### Ayu BorderLess
+## Themes
 
-Just Zed's Ayu theme with the borders removed to look more like the Ayu themes in VSCode
+#### Mirage
 
 ![](img/mirage.png)
 
+#### Dark
+
 ![](img/dark.png)
+
+#### Light
 
 ![](img/light.png)
